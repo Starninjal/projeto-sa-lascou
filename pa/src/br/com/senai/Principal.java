@@ -7,5 +7,6 @@ public class Principal {
 	public static void main(String[] args) {
 		String ruan = "José";
 		JOptionPane.showMessageDialog(null, ruan);
+		String jose = "José";
 	}
 }
