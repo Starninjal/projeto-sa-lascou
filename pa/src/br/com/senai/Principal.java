@@ -9,5 +9,6 @@ public class Principal {
 		JOptionPane.showMessageDialog(null, ruan);
 		String jose = "José";
 		int numero = 123;
+		String  s = "s";
 	}
 }
