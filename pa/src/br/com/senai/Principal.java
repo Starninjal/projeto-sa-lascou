@@ -8,5 +8,6 @@ public class Principal {
 		String ruan = "José";
 		JOptionPane.showMessageDialog(null, ruan);
 		String jose = "José";
+		int numero = 123;
 	}
 }
